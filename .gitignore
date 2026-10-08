@@ -1,0 +1,24 @@
+node_modules/
+.sites-runtime/
+*.tar.gz
+*.zip
+
+# Code only: photographs, fonts, audio and video stay out of the repository
+dist/assets/
+promo/public/
+promo/out/
+saree-archive/photos/
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.otf
+*.ttf
+*.woff
+*.woff2
